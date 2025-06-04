@@ -8,7 +8,19 @@ export default function Homepage() {
     <div className="max-w-md mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">Welcome to Homepage</h1>
       <li>
-        <Link href="/wordle"> wordle</Link>
+        <Link href="/wordle">wordle</Link>
+      </li>
+      <li>
+        <Link href="/calculator">calculator</Link>
+      </li>
+      <li>
+        <Link href="/short">short</Link>
+      </li>
+      <li>
+        <Link href="/table">table</Link>
+      </li>
+      <li>
+        <Link href="/todolist">to do list</Link>
       </li>
     </div>
   );

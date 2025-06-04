@@ -1,0 +1,37 @@
+[
+  {
+    "username": "Admin1",
+    "role": "Admin",
+    "status": "Active",
+    "lastlogin": "1682568886",
+    "lastmodified": "1670083677"
+  },
+  {
+    "username": "Admin2",
+    "role": "Admin",
+    "status": "Inactive",
+    "lastlogin": "1669776312",
+    "lastmodified": "1672502400"
+  },
+  {
+    "username": "User1",
+    "role": "User",
+    "status": "Active",
+    "lastlogin": "1682457886",
+    "lastmodified": "1681283677"
+  },
+  {
+    "username": "User2",
+    "role": "User",
+    "status": "Inactive",
+    "lastlogin": "1668666312",
+    "lastmodified": "1672502400"
+  },
+  {
+    "username": "User3",
+    "role": "User",
+    "status": "Inactive",
+    "lastlogin": null,
+    "lastmodified": "1609430400"
+  }
+]
